@@ -9,7 +9,7 @@ An app that synchronizes the songs in your mobile or playing on the radio/TV wit
 
 Well, to do our job we all use lots of open source softwares/libraries every single day. We really appreciate the efforts open source community has made to make it happen, otherwise there wouldn't be this and many other applications. 
 
-We also had a lot of fun doing this app and received a bunch of positive feedback from its users. Unfortunatelly this campaign has ended and we will no longer have it on our App Store, so we've decided that it'd be cool to make it available to everyone! 
+We also had a lot of fun doing this app and received a bunch of positive feedback from its users. Unfortunatelly this campaign has ended and we will no longer have it on our App Store, so we've decided that'd be cool to make it available to everyone! 
 
 This is our way to support open source community and show our appreciation for it.
 
