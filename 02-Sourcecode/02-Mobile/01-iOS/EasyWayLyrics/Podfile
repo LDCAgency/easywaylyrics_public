@@ -1,0 +1,4 @@
+platform :ios, '7.1'
+
+pod 'MBProgressHUD', '~> 0.8'
+pod 'SDWebImage', '~> 3.6'

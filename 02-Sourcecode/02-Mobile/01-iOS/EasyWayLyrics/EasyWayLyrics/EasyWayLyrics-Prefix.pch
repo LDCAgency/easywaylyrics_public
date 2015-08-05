@@ -1,0 +1,28 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #import "EWLBaseViewController.h"
+    #import "EWLAlertViewUtils.h"
+    #import "BaseNetworkRequest.h"
+    #import "EWLConstants.h"
+    #import "EWLBackgroundBlurImage.h"
+    #import "EWLDateUtils.h"
+    #import "EWLStringUtils.h"
+
+    #define CARRIAGE_RETURN @"\r\n"
+    #define GRACENOTE_CLIENTID @"8864000-B3F163CB6F95D42DCF0AEDCE07E12216"
+
+#endif
